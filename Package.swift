@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ISMintegralAdapter",
-            url: "https://github.com/portolans/mintegral-ironsourceadapter-releases/releases/download/5.18.0/ISMintegralAdapter.xcframework.zip",
-            checksum: "1b018985b3c41ccdd66a48fdaab745d36e13a049cb0b96e75e361e4175ca5cf3",
+            url: "https://github.com/portolans/mintegral-ironsourceadapter-releases/releases/download/5.19.0/ISMintegralAdapter.xcframework.zip",
+            checksum: "d89f800f67efce9394b4da40f3b722fe5e3419f0d7588f498fa16b3c089c5f19",
         ),
     ],
 )
